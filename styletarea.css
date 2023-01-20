@@ -1,0 +1,16 @@
+img{
+    width: 10%;
+    margin: 5px;
+    background-color: darkorchid;
+    background-size: 20%;
+   display: inline;
+    display: block;
+   display: inline-block
+   
+}
+
+body {
+   
+    line-height: 5%;
+    margin: 0;
+  }

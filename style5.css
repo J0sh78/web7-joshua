@@ -1,0 +1,13 @@
+img{
+    width: 10%;
+    padding-right: 50px;
+   /*display: inline;*/
+   /* display: block;*/
+   display: inline-block
+}
+
+
+img:nth-child(2){
+    /*display: none;*/
+    visibility: hidden;
+}

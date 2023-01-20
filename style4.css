@@ -1,0 +1,17 @@
+.w-800{
+    width: 10vw;
+    
+}
+.relativo{
+    width: 10vw;
+}
+
+#Fondo{
+    background-color: rgb(127, 133, 255);
+}
+.parrafo{
+    font-style: italic;
+    font-weight: 500;
+    background-color: gold;
+}
+
